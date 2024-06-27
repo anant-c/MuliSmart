@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MuliSmart Home</string>
+    <string-array name="languages">
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Kannada</item>
+        <item>Gujarati</item>
+        <item>Marathi</item>
+        <item>Bengali</item>
+    </string-array>
+    <string name="start_recording">Start Recording</string>
+    <string name="API_KEY">trnsl.1.1.20170425T085917Z.580fec9ed721d387.9caf5bd2514ca1581b95de321974dce826ef5064</string>
+</resources>
